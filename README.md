@@ -3,6 +3,7 @@
 
   - <b>Microsoft Azure</b>
     - [Catch and Visualize Cyber Threats in Real Time with Azure Sentinel](https://github.com/oluosh/Catch-and-Visualize-Cyber-Threats-in-Real-Time-with-Azure-Sentinel)
+    - [Adjusting On premises Active Directory on Azure VMs](https://github.com/oluosh/Adjusting-On-premises-Active-Directory-on-Azure-VMs/)
 <h2>🤳🏾Connect with me:</h2> 
 
 
